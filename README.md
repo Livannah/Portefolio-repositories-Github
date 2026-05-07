@@ -6,7 +6,7 @@
 
 ## Projet
 
-Dans ce projet, 3 langagues de programmation sont utilisés : HTML, SCSS et Javascript (ES6) ainsi que l'API de Github.
+Dans ce projet, 3 langages de programmation sont utilisés : HTML, SCSS et Javascript (ES6) ainsi que l'API de Github.
 Ce mini-site vitrine, type portfolio présente tous les repositories Github de mon compte.
 
 ## Planning
